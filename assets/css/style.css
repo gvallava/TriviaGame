@@ -1,0 +1,23 @@
+body {
+	background-image: url("../images/bg.png");
+	font-size: 30px;
+	color: yellow;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	
+}
+
+#header
+{
+	margin: 0 auto;
+	font-size: 40px;
+	font-weight: bolder;
+	text-align: center;
+	
+}
+
+#test
+{ 
+
+padding:40px 40px 40px 40px;
+
+ }
